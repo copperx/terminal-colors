@@ -2,7 +2,7 @@ Here is the formatted `README.md` file. You can add this directly to the root of
 
 -----
 
-# Assignment: Modular Compilation & Git Workflow
+# Assignment: Using an External C Library 
 
 In this assignment, you will ccompile a program that spans multiple files and link custom libraries.
 
